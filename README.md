@@ -1,2 +1,46 @@
-# note-about-archlinux-gnome-shell
-note-about-archlinux-gnome-shell
+
+
+# 首頁
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archlinux Gnome Shell Adjustment](https://samwhelp.github.io/archlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-gnome-shell-adjustment) |
+| [Archlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-archlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-gnome-shell) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+
+
+
+
+## 主題
+
+* [微調腳本](#微調腳本)
+* [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| --- |
+| [Archlinux Gnome Shell Config](https://github.com/samwhelp/archlinux-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
+| [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
+| [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
+| [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
