@@ -25,6 +25,7 @@
 | --- |
 | [Archlinux Gnome Shell Config](https://github.com/samwhelp/archlinux-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/archlinux-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
@@ -37,6 +38,7 @@
 | [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
+| [Manjaro Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-manjaro-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-gnome-shell) |
 
 
 
