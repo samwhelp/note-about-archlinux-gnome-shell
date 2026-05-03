@@ -14,6 +14,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [相關筆記](#相關筆記)
 
 
@@ -26,6 +27,27 @@
 | [Archlinux Gnome Shell Config](https://github.com/samwhelp/archlinux-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 | [簡易微調](https://github.com/samwhelp/archlinux-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+## 相關資源
+
+| Gnome Shell Enhance |
+| ------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+| Gnome Shell Style  |
+| ------------------ |
+[make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
+| Gnome Shell Layout |
+| ------------------ |
+| [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+| [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 
 
 
